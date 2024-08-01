@@ -1,7 +1,7 @@
 
-# Lunar Admin System
+# Lunar, Roblox-Powered Administration
 
-Lunar is a robust and customizable admin system for Roblox, designed to provide comprehensive administrative capabilities. Inspired by Adonis, Lunar offers a powerful command framework, detailed permission management, and a user-friendly interface.
+## Lunar is a robust and customizable admin system for Roblox, designed to provide comprehensive administrative capabilities. Inspired by Adonis, Lunar offers a powerful command framework, detailed permission management, and a user-friendly interface.
 
 ## Features
 - Command system with a wide range of commands
