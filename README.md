@@ -10,13 +10,10 @@
 - User interface for easy administration
 
 ## Installation
-Instructions on how to install and set up Lunar on your Roblox game.
 
 ## Usage
-Basic usage and command examples.
 
-## Contributing
-Guidelines for contributing to the project.
+## Contributions
 
 ## License
 This project is licensed under the MIT License.
